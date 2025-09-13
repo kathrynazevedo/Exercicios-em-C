@@ -1,6 +1,6 @@
-# 📘 Projetos em C
+# 📘 Projetos em C++
 
-Este repositório contém alguns projetos em linguagem **C** que exploram diferentes estruturas de dados e algoritmos fundamentais feitos no quarto semestre da faculdade de Ciência da Computação.  
+Este repositório contém alguns projetos em linguagem **C++** que exploram diferentes estruturas de dados e algoritmos fundamentais feitos no quarto semestre da faculdade de Ciência da Computação.  
 
 ---
 
@@ -88,10 +88,7 @@ Para testar um projeto, substitua o conteúdo de main.c pelo respectivo código.
 
 Todos os códigos foram compilados e testados com GCC.
 
-### ✨ Autora
+## ✨ Autora
 
-Projetos desenvolvidos por Kathryn Azevedo durante estudos de Estruturas de Dados em C.
-
-
-Quer que eu também monte uma **versão com emojis nos títulos das seções (Heap, Subconjuntos, Hash)** pra deixar o README mais estilizado e único?
+Projetos desenvolvidos por **Kathryn Azevedo** durante estudos de Estruturas de Dados em C.
 
