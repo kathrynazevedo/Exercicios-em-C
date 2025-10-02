@@ -1,4 +1,4 @@
-# 📘 Projetos em C++
+# 📘 Projetos em C e C++
 
 Este repositório contém alguns projetos em linguagem **C++** que exploram diferentes estruturas de dados e algoritmos fundamentais feitos no quarto semestre da faculdade de Ciência da Computação.  
 
