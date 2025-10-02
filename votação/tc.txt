@@ -1,0 +1,5 @@
+4
+1 201 101 "Estudo sobre IA" 1
+2 202 102 "Simulacao de Software" 0
+3 203 103 "Estudo sobre Banco de Dados" 0
+4 204 104 "Simulacao de Hardware" 0
